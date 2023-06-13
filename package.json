@@ -9,7 +9,7 @@
     "start": "tsc-watch --onSuccess \" node dist/index.js \" "
   },
   "dependencies": {
-    "crypto-js": "^3.1.9-1",
+    "crypto-js": "^3.2.1",
     "tsc-watch": "^4.1.0",
     "typescript": "^3.7.5"
   },
